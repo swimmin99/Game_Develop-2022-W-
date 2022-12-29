@@ -19,13 +19,8 @@ FINAL
 </div>
 
 
-[^1]: 오름차순 정렬, 정렬 시 전체 리스트 탐색
-[^2]: 오름차순 정렬, 중복 값 삭제 후 삽입, 정렬 시 전체 리스트 탐색
-[^3]: adjecency Matrix, 노드포인터 배열 정적 할당
-[^4]: adjecency Matrix, 노드포인터 배열 동적 할당
-[^5]: preorder, inorder, postorder, levelorder
-[^6]: Iterative version
-[^7]: Recursive version
+[^1]:
+
 
 ---
 <p align = "left">
