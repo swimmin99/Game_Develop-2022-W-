@@ -12,7 +12,7 @@ FINAL
  ---
 |날짜|코드|유형|학습목표|
 |------|---|----|----|
-|2022-12-22|[](https://github.com/swimmin99/Data_Structure/blob/main/04_List/List1.c)|C# 기초|실습 과제1|
+|2022-12-22|[코드 모음](https://github.com/swimmin99/Data_Structure/blob/main/04_List/List1.c)|C# 기초|실습 과제1|
 |2022-12-26|[](https://github.com/swimmin99/Data_Structure/blob/main/04_List/List1.c)|C# 기초|실습 과제2|
 |2022-12-27||유니티|간단한 게임 제작|
 |2022-12-28||유니티|라이팅1, 벡터|
