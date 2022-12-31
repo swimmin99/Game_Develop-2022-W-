@@ -15,8 +15,10 @@ FINAL
 |2022-12-22|[](https://github.com/swimmin99/Data_Structure/blob/main/04_List/List1.c)|C# 기초|실습 과제1|
 |2022-12-26|[](https://github.com/swimmin99/Data_Structure/blob/main/04_List/List1.c)|C# 기초|실습 과제2|
 |2022-12-27||유니티|간단한 게임 제작|
-|2022-12-28||유니티|라이팅1|
-|2022-12-29||유니티|라이팅2|
+|2022-12-28||유니티|라이팅1, 벡터|
+|2022-12-29||유니티|파티클|
+|2022-12-30||유니티|터레인, 맵핑|
+
 
 
 </div>
