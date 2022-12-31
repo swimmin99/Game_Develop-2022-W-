@@ -8,16 +8,16 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=2022학년도%20겨울학기&fontColor=000000&fontSize=20)
 
 
-WINTER SEMASTER
- ---
+CONTENT
+---
 |날짜|코드|유형|학습목표|
 |------|---|----|----|
-|2022-12-22|[코드 모음](https://github.com/swimmin99/Data_Structure/blob/main/04_List/List1.c)|C# 기초|실습 과제1|
-|2022-12-26|[](https://github.com/swimmin99/Data_Structure/blob/main/04_List/List1.c)|C# 기초|실습 과제2|
-|2022-12-27||유니티|간단한 게임 제작|
-|2022-12-28||유니티|라이팅1, 벡터|
-|2022-12-29||유니티|파티클|
-|2022-12-30||유니티|터레인, 맵핑|
+|2022-12-22|[코드 모음](https://github.com/swimmin99/Data_Structure/blob/main/04_List/List1.c)|C# 기초 Basic|실습 과제1|
+|2022-12-26|[](https://github.com/swimmin99/Data_Structure/blob/main/04_List/List1.c)|C# 기초 Basic|실습 과제2|
+|2022-12-27||유니티|간단한 게임 제작 Unity Introduction|
+|2022-12-28||유니티|라이팅1, 벡터 Lighting, Vector|
+|2022-12-29||유니티|파티클 Particle Effects|
+|2022-12-30||유니티|터레인, 맵핑 Terrain, Mapping|
 
 
 
