@@ -8,7 +8,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=2022학년도%20겨울학기&fontColor=000000&fontSize=20)
 
 
-FINAL
+WINTER SEMASTER
  ---
 |날짜|코드|유형|학습목표|
 |------|---|----|----|
