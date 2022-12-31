@@ -14,10 +14,10 @@ CONTENT
 |------|---|----|----|
 |2022-12-22|[코드 모음](https://github.com/swimmin99/Data_Structure/blob/main/04_List/List1.c)|C# 기초 Basic|실습 과제1|
 |2022-12-26|[](https://github.com/swimmin99/Data_Structure/blob/main/04_List/List1.c)|C# 기초 Basic|실습 과제2|
-|2022-12-27||유니티|간단한 게임 제작 Unity Introduction|
-|2022-12-28||유니티|라이팅1, 벡터 Lighting, Vector|
-|2022-12-29||유니티|파티클 Particle Effects|
-|2022-12-30||유니티|터레인, 맵핑 Terrain, Mapping|
+|2022-12-27||유니티 2D|간단한 게임 제작 Unity Introduction|
+|2022-12-28||유니티 3D|라이팅1, 벡터 Lighting, Vector|
+|2022-12-29||유니티 3D|파티클 Particle Effects|
+|2022-12-30||유니티 3D|터레인, 맵핑 Terrain, Mapping|
 
 
 
